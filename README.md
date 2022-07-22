@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/86056898/180468204-dbe72978-a25f-49cc-817d-7866d8c73e22.png) About Me 👋
+![image](https://user-images.githubusercontent.com/86056898/180468204-dbe72978-a25f-49cc-817d-7866d8c73e22.png) About Me:
 
 
 **Hammed-Waheed/Hammed-Waheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am a Full Stack Developer ┌\ from Syria-Germany.
+I am a Full Stack Developer ![image](https://user-images.githubusercontent.com/86056898/180469059-adc86e0e-2dbc-4a72-8d6b-648ebe6323e8.png) from Syria-Germany.
 
 
 
