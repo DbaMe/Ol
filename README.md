@@ -1,19 +1,42 @@
-![image](https://user-images.githubusercontent.com/86056898/180468204-dbe72978-a25f-49cc-817d-7866d8c73e22.png) About Me:
+hammed / README.md
+
+# Hi there, I am Hammed 👋
+
+### About Me:
+
+I am Frontend Developer <img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="20">
+- 🌱 I’m currently student learning HTML, CSS-SASS/SCSS, PBL-Javascript, DOM-Manipulation, ReactJS...
+- 👯 I’m looking to collaborate on with other developers around the world
+- 💻 In my free time learn more about technologies and build website/App
+- ⚡ Fun fact: Listen to music, nature and traveling.
+- 📫 How to reach me: hammedtkenny@gmail.com 
 
 
-**Hammed-Waheed/Hammed-Waheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am a Full Stack Developer ![image](https://user-images.githubusercontent.com/86056898/180469059-adc86e0e-2dbc-4a72-8d6b-648ebe6323e8.png) from Syria-Germany.
+### 🛠️ Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+          
+          
+          
+          
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 😄 Pronouns: .. -->.
+
 
