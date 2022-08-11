@@ -5,7 +5,7 @@
 ### About Me:
 
 I am Frontend Developer <img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
-- 🌱 I’m currently student learning HTML, CSS-SASS/SCSS, PBL-Javascript, DOM-Manipulation, ReactJS...
+- 🌱 I’m student learning HTML, CSS-SASS/SCSS, PBL-Javascript, DOM-Manipulation, ReactJS...
 - 👯 I’m looking to collaborate on with other developers around the world
 - 💻 In my free time learn more about technologies and build website/App
 - ⚡ Fun fact: Listen to music, nature and traveling.
