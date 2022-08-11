@@ -4,9 +4,9 @@
 </h1>
 <!-- 👋 -->
 
-### About Me:
+## About Me:
 
-I am Frontend Developer <img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
+<h2> I am Frontend Developer </h2> <img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
 - 🌱 I’m currently learning HTML, CSS-SASS/SCSS, PBL-Javascript, DOM-Manipulation, ReactJS...
 - 👯 I’m looking to collaborate on with other developers around the world
 - 💻 In my free time learn more about technologies and build website/App
