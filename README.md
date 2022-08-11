@@ -42,6 +42,6 @@ I am Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrx
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- 😄 Pronouns: .. -->.
+- 😄 Pronouns: .. -->
 
 
