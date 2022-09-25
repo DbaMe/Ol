@@ -29,8 +29,6 @@ I am Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrx
 
 ## https://vercel.com/hammedtkenny-gmailcom
           
-          
-
 
           
     
@@ -38,15 +36,5 @@ I am Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrx
           
           
           
-<!-- 👋 -->
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: .. -->
 
 
