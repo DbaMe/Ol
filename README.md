@@ -26,10 +26,6 @@ I am Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrx
 
 
 
-# Projects:  
-
-## https://vercel.com/hammedtkenny-gmailcom
-          
 
           
     
