@@ -31,7 +31,6 @@ I am Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrx
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" style="padding-right:50px;" align="left" alt=" MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" style="padding-right:50px;" align="left" alt=" MySQL" />
           
-          
 
 <!-- -->
 
