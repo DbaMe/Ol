@@ -20,9 +20,9 @@ I am Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrx
 
 # 🛠️ Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" style="padding-right:50px;" align="left"/>     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"  style="padding-right:50px;" align="left"/>      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"  style="padding-right:50px;" color="white"  align="left"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" style="padding-right:50px;" align="left" alt=" html5" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"  style="padding-right:50px;" align="left" alt=" "/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"  style="padding-right:50px;" color="white" align="left"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="padding-right:50px;" align="left"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" style="padding-right:50px;" align="left"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" style="padding-right:50px;" align="left"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" style="padding-right:50px;"align="left"/>      
