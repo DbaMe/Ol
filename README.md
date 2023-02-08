@@ -15,7 +15,7 @@ I am Junior Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozR
 
 - ⚡ Fun fact: Listen to music, nature and traveling.
 
-- 📫 How to reach me <a href = "https://www.linkedin.com/in/waheed-hammed"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /> </a>
+- 📫 How to reach me <a href = "#https://www.linkedin.com/in/waheed-hammed"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /> </a>
 
 
 # 🛠️ Languages and Tools:
