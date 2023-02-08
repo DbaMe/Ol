@@ -5,17 +5,17 @@
 
 
 ### About Me :
-I am Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
+I am Junior Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
 
-- 🌱 I’m currently learning HTML, CSS-SASS/SCSS, PBL-Javascript, DOM-Manipulation, ReactJS, NodeJs, MongoDB, MySQL...
+- I'm working as a junior web developer.
 
-- 👯 I’m looking to collaborate on with other developers around the world
+- 👯 I’m looking to collaborate on with other developers around the world.
 
-- 💻 In my free time learn more about technologies and build website/App
+- 💻 In my free time learn more about technologies and build website/App.
 
 - ⚡ Fun fact: Listen to music, nature and traveling.
 
-- 📫 How to reach me: hammedtkenny@gmail.com 
+- 📫 How to reach me <a href = "https://www.linkedin.com/in/waheed-hammed"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /> </a>
 
 
 # 🛠️ Languages and Tools:
