@@ -28,7 +28,7 @@ I am Junior Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozR
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" style="padding-right:50px;"align="left" alt=" sass"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" style="padding-right:50px;" align="left" alt="JavaScript "/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="padding-right:50px;" align="left" alt="React "/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30" style="padding-right:50px;" align="left" alt=" MSSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" style="padding-right:50px;" align="left" alt=" MSSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" style="padding-right:50px;" align="left" alt="nodeJS "/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" style="padding-right:50px;" align="left" alt=" MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" style="padding-right:50px;" align="left" alt=" MySQL" />
