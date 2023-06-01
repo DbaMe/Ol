@@ -5,14 +5,14 @@
 
 
 ### About Me :
-I am Junior Frontend Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
+I am Database Administrator MSSQL / Junior Web Developer  ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
 
 <!--- I'm working as a junior web developer. -->
 
 
 - 👯 I’m looking to collaborate on with other developers around the world.
 
-- 💻 In my free time learn more about technologies and build website/App.
+- 💻 In my free time learn more about mssql, t-sql, technologies and build website/App.
 
 - ⚡ Fun fact: Listen to music, nature and traveling.
 
