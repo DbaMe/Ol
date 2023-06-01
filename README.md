@@ -5,7 +5,7 @@
 
 
 ### About Me :
-I am Database Administrator MSSQL / Junior Web Developer  ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
+I am Database Administrator MSSQL / Web Developer  ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="35">
 
 <!--- I'm working as a junior web developer. -->
 
