@@ -16,7 +16,7 @@ I am Database Administrator MSSQL / Junior Web Developer  ┌<img src="https://m
 
 - ⚡ Fun fact: Listen to music, nature and traveling.
 
-- 📫 How to reach me <a target="_blank" href = "https://www.linkedin.com/in/waheed-hammed"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />  </a>
+- 📫 How to reach me <a href = "https://www.linkedin.com/in/waheed-hammed" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /> </a>
 
 
 # 🛠️ Languages and Tools:
