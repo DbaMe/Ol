@@ -18,7 +18,7 @@ I am Database Administrator MSSQL  ┌<img src="https://media.giphy.com/media/7F
 
 
 # 🛠️ Languages and Tools:
-
+<!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" style="padding-right:50px;" align="left" alt=" vscode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"  style="padding-right:50px;" align="left" alt=" Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"  style="padding-right:50px;" color="white" align="left" alt="github "/>
@@ -29,6 +29,7 @@ I am Database Administrator MSSQL  ┌<img src="https://media.giphy.com/media/7F
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" style="padding-right:50px;" align="left" alt="nodeJS "/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" style="padding-right:50px;" align="left" alt=" MSSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" style="padding-right:50px;" align="left" alt=" MongoDB"/>
+ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" style="padding-right:50px;" align="left" alt=" MySQL" />
 
     
